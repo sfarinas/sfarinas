@@ -39,8 +39,13 @@
  <a href="https://discord.gg/bGDFY4BEVa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sfarinas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/jogandojuntox11" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   
+     
+</div>
   
+  <div align="center">
+<br><p align="centre"><b>Nomades Passantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sfarinas}/count.svg?text_color=0293E8" /></p> 
+<br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
