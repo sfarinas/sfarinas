@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Mundo!;Me+chamo+Salomao+Farina;Tenho+43+anos;Resido+em+Rio+de+Janeiro,+Brasil;Graduando+em;Analise+e+Desenvolvimento+de+Siatemas;Pela+UVA!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/sfarinas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfarinas&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&title_color=50F97A&bg_color=414450&icon_color=37E9D3&text_color=0293E8"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfarinas&layout=compact&langs_count=7&theme=cobalt&title_color=50F97A&bg_color=414450&text_color=0293E8"/>
-</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Salomao-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
